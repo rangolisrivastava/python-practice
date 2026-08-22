@@ -1,7 +1,7 @@
-n = 25
+n = 8
 if n%2 == 0:
     print ("even")
 else:
     print ("odd")
-    if n==25:
-        print ("bhaiya's fav number")
+    if n==8:
+        print ("infinity")
