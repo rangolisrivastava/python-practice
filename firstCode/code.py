@@ -12,3 +12,8 @@ total = a + b + c
 print("total:", total)
 avg = total/3
 print("avg price:", avg)
+print(9 % 4) #modulo-- remainder
+print(5**4)
+x = 1
+x += 5 #x=x+5
+print(x)
