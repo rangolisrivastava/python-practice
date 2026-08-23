@@ -10,5 +10,9 @@ elif (c == "*"):
     print("product:", a * b)
 elif (c == "/"):
     print("division:", a / b)
+elif (c == "**"):
+    print("power:", a ** b)
+elif (c == "%"):
+    print("remainder:", a % b)
 else:
     print("invalid operator")
