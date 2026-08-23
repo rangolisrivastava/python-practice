@@ -13,7 +13,7 @@ print("end of the code")
 
 i = 1
 while i <= 7:
-    print(i * ";)") #triangle
+    print(i * ";)") #whenever int is multiplied by string, string is repeated till that numner #triangle
     i += 1
 print("end")
 
