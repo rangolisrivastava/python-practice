@@ -22,3 +22,17 @@ while i > 0:
     print(i * ":-)") #reverse triangle
     i -= 1
 print("end")
+
+for i in range(1, 45):
+    if i == 23:
+        break #code breaks
+    print(i)
+    i += 1
+print("Out of Loop")
+
+for i in range(1, 45):
+    if i == 23:
+        continue #skips 23 but the code continues 
+    print(i)
+    i += 1
+print("Out of Loop") 
